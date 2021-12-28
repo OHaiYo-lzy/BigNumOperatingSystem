@@ -1,0 +1,47 @@
+﻿  Test.cpp
+C:\Users\Tyrion Lannister\Desktop\数据结构课设\Num\Num\Test.cpp(56,38): warning C4244: “初始化”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+C:\Users\Tyrion Lannister\Desktop\数据结构课设\Num\Num\Test.cpp(58,36): warning C4244: “初始化”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+C:\Users\Tyrion Lannister\Desktop\数据结构课设\Num\Num\Test.cpp(66,38): warning C4244: “初始化”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+C:\Users\Tyrion Lannister\Desktop\数据结构课设\Num\Num\Test.cpp(68,36): warning C4244: “初始化”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+C:\Users\Tyrion Lannister\Desktop\数据结构课设\Num\Num\Test.cpp(76,38): warning C4244: “初始化”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+C:\Users\Tyrion Lannister\Desktop\数据结构课设\Num\Num\Test.cpp(80,36): warning C4244: “初始化”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+C:\Users\Tyrion Lannister\Desktop\数据结构课设\Num\Num\Test.cpp(88,38): warning C4244: “初始化”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+C:\Users\Tyrion Lannister\Desktop\数据结构课设\Num\Num\Test.cpp(90,36): warning C4244: “初始化”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+C:\Users\Tyrion Lannister\Desktop\数据结构课设\Num\Num\Test.cpp(101,38): warning C4244: “初始化”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+C:\Users\Tyrion Lannister\Desktop\数据结构课设\Num\Num\Test.cpp(103,36): warning C4244: “初始化”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+C:\Users\Tyrion Lannister\Desktop\数据结构课设\Num\Num\Test.cpp(155,38): warning C4244: “初始化”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+C:\Users\Tyrion Lannister\Desktop\数据结构课设\Num\Num\Test.cpp(157,36): warning C4244: “初始化”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+C:\Users\Tyrion Lannister\Desktop\数据结构课设\Num\Num\Test.cpp(165,38): warning C4244: “初始化”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+C:\Users\Tyrion Lannister\Desktop\数据结构课设\Num\Num\Test.cpp(167,36): warning C4244: “初始化”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+C:\Users\Tyrion Lannister\Desktop\数据结构课设\Num\Num\Test.cpp(175,38): warning C4244: “初始化”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+C:\Users\Tyrion Lannister\Desktop\数据结构课设\Num\Num\Test.cpp(177,36): warning C4244: “初始化”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+C:\Users\Tyrion Lannister\Desktop\数据结构课设\Num\Num\Test.cpp(185,38): warning C4244: “初始化”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+C:\Users\Tyrion Lannister\Desktop\数据结构课设\Num\Num\Test.cpp(187,36): warning C4244: “初始化”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+C:\Users\Tyrion Lannister\Desktop\数据结构课设\Num\Num\Test.cpp(198,38): warning C4244: “初始化”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+C:\Users\Tyrion Lannister\Desktop\数据结构课设\Num\Num\Test.cpp(200,36): warning C4244: “初始化”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+C:\Users\Tyrion Lannister\Desktop\数据结构课设\Num\Num\Test.cpp(229,27): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\Tyrion Lannister\Desktop\数据结构课设\Num\Num\Test.cpp(240,34): warning C4244: “初始化”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+C:\Users\Tyrion Lannister\Desktop\数据结构课设\Num\Num\Test.cpp(242,32): warning C4244: “初始化”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+C:\Users\Tyrion Lannister\Desktop\数据结构课设\Num\Num\Test.cpp(245,34): warning C4244: “初始化”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+C:\Users\Tyrion Lannister\Desktop\数据结构课设\Num\Num\Test.cpp(247,32): warning C4244: “初始化”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+C:\Users\Tyrion Lannister\Desktop\数据结构课设\Num\Num\Test.cpp(299,38): warning C4244: “初始化”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+C:\Users\Tyrion Lannister\Desktop\数据结构课设\Num\Num\Test.cpp(301,36): warning C4244: “初始化”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+C:\Users\Tyrion Lannister\Desktop\数据结构课设\Num\Num\Test.cpp(309,38): warning C4244: “初始化”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+C:\Users\Tyrion Lannister\Desktop\数据结构课设\Num\Num\Test.cpp(311,36): warning C4244: “初始化”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+C:\Users\Tyrion Lannister\Desktop\数据结构课设\Num\Num\Test.cpp(319,38): warning C4244: “初始化”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+C:\Users\Tyrion Lannister\Desktop\数据结构课设\Num\Num\Test.cpp(321,36): warning C4244: “初始化”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+C:\Users\Tyrion Lannister\Desktop\数据结构课设\Num\Num\Test.cpp(329,38): warning C4244: “初始化”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+C:\Users\Tyrion Lannister\Desktop\数据结构课设\Num\Num\Test.cpp(331,36): warning C4244: “初始化”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+C:\Users\Tyrion Lannister\Desktop\数据结构课设\Num\Num\Test.cpp(342,38): warning C4244: “初始化”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+C:\Users\Tyrion Lannister\Desktop\数据结构课设\Num\Num\Test.cpp(344,36): warning C4244: “初始化”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+C:\Users\Tyrion Lannister\Desktop\数据结构课设\Num\Num\Test.cpp(399,38): warning C4244: “初始化”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+C:\Users\Tyrion Lannister\Desktop\数据结构课设\Num\Num\Test.cpp(401,36): warning C4244: “初始化”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+C:\Users\Tyrion Lannister\Desktop\数据结构课设\Num\Num\Test.cpp(409,38): warning C4244: “初始化”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+C:\Users\Tyrion Lannister\Desktop\数据结构课设\Num\Num\Test.cpp(411,36): warning C4244: “初始化”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+C:\Users\Tyrion Lannister\Desktop\数据结构课设\Num\Num\Test.cpp(419,38): warning C4244: “初始化”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+C:\Users\Tyrion Lannister\Desktop\数据结构课设\Num\Num\Test.cpp(421,36): warning C4244: “初始化”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+C:\Users\Tyrion Lannister\Desktop\数据结构课设\Num\Num\Test.cpp(429,38): warning C4244: “初始化”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+C:\Users\Tyrion Lannister\Desktop\数据结构课设\Num\Num\Test.cpp(431,36): warning C4244: “初始化”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+C:\Users\Tyrion Lannister\Desktop\数据结构课设\Num\Num\Test.cpp(442,38): warning C4244: “初始化”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+C:\Users\Tyrion Lannister\Desktop\数据结构课设\Num\Num\Test.cpp(444,36): warning C4244: “初始化”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+  Num.vcxproj -> C:\Users\Tyrion Lannister\Desktop\数据结构课设\Num\x64\Debug\Num.exe
